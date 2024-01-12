@@ -1,0 +1,10 @@
+C:\Users\Kento\Source\Repos\AutomaticSharingForGarticPhone\AutomaticSharingForGarticPhone\bin\Debug\AutomaticSharingForGarticPhone.exe.config
+C:\Users\Kento\Source\Repos\AutomaticSharingForGarticPhone\AutomaticSharingForGarticPhone\bin\Debug\AutomaticSharingForGarticPhone.exe
+C:\Users\Kento\Source\Repos\AutomaticSharingForGarticPhone\AutomaticSharingForGarticPhone\bin\Debug\AutomaticSharingForGarticPhone.pdb
+C:\Users\Kento\Source\Repos\AutomaticSharingForGarticPhone\AutomaticSharingForGarticPhone\obj\Debug\AutomaticSharingForGarticPhone.ProjectInstaller.resources
+C:\Users\Kento\Source\Repos\AutomaticSharingForGarticPhone\AutomaticSharingForGarticPhone\obj\Debug\AutomaticSharingForGarticPhone.Service1.resources
+C:\Users\Kento\Source\Repos\AutomaticSharingForGarticPhone\AutomaticSharingForGarticPhone\obj\Debug\AutomaticSharingForGarticPhone.csproj.GenerateResource.cache
+C:\Users\Kento\Source\Repos\AutomaticSharingForGarticPhone\AutomaticSharingForGarticPhone\obj\Debug\AutomaticSharingForGarticPhone.csproj.CoreCompileInputs.cache
+C:\Users\Kento\Source\Repos\AutomaticSharingForGarticPhone\AutomaticSharingForGarticPhone\obj\Debug\AutomaticSharingForGarticPhone.exe
+C:\Users\Kento\Source\Repos\AutomaticSharingForGarticPhone\AutomaticSharingForGarticPhone\obj\Debug\AutomaticSharingForGarticPhone.pdb
+C:\Users\Kento\Source\Repos\AutomaticSharingForGarticPhone\AutomaticSharingForGarticPhone\obj\Debug\AutomaticSharingForGarticPhone.csproj.AssemblyReference.cache
